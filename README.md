@@ -26,3 +26,9 @@ People apply for different positions in company, it can be broadly classified in
 
 ## PROPOSED SYSTEM DESIGN
 ![alt text](https://github.com/rahulgullan/ML_Project/blob/master/icfoss2.png)
+
+## FUTURE SCOPE
+
+The document parsing using deep learning method is an important application. It is the next level of document classification. For example, if a company more interested in candidate’s technical skills, they can prioritize resumes by only considering required specific information. Parsing helps to identify various semantic sections in documents and extract relevant information.
+
+Both classification and parsing can be applied to any kind of document in an organization like resumes, tender applications, proposals etc.
