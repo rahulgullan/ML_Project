@@ -25,3 +25,4 @@ People apply for different positions in company, it can be broadly classified in
 **Classification model**: Deep learning methods like RNN, CNN, DNN can be used to construct a classification model. This classification model is used to predict the job class of unseen resumes.
 
 ## PROPOSED SYSTEM DESIGN
+![alt text](https://github.com/rahulgullan/ML_Project/blob/master/icfoss2.png)
